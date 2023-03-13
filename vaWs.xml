@@ -1,0 +1,2037 @@
+<QdiGeodataSet Id="ID1" persistentID="-3520"
+ refAttributes=""
+ refTypeRegistry="ID2"
+ refSpatialReferenceSystem="ID-1"
+ refComposites="ID3 ID4 ID5 ID6 ID7 ID8 ID9 ID10 ID11 ID12 ID13 ID14 ID15 ID16 "
+ refMetaObjects=""
+>
+<QdiFeature Id="ID3" persistentID="-3522"
+ refAttributes="ID17 ID18 "
+ refSpatialObjectType="ID19"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+<QdiIntegerAttribute Id="ID17" name="VersionInfoMajor"
+ value="21"
+ refAttributeType="ID20"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID18" name="VersionInfoMinor"
+ value="0"
+ refAttributeType="ID21"
+>
+</QdiIntegerAttribute>
+</QdiFeature>
+<QdiFeature Id="ID4" persistentID="8"
+ refAttributes="ID22 ID23 ID24 ID25 ID26 ID27 ID28 ID29 ID30 ID31 ID32 ID33 ID34 "
+ refSpatialObjectType="ID35"
+ refMetaObjects=""
+ refAggregations="ID36 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID22" name="Material"
+ value="Betong ig"
+ refAttributeType="ID37"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID23" name="ShortMaterial"
+ value="BTG"
+ refAttributeType="ID38"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID24" name="Type"
+ value=" "
+ refAttributeType="ID39"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID25" name="StatusCode"
+ value="0"
+ refAttributeType="ID40"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID26" name="UseTypeCode"
+ value="0"
+ refAttributeType="ID41"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID27" name="Domain"
+ value=""
+ refAttributeType="ID42"
+>
+</QdiStringAttribute>
+<QdiListAttribute Id="ID28" name="QuadriObjectIds"
+ refAttributeType="ID43"
+ refAttributes=""
+>
+</QdiListAttribute>
+<QdiStringAttribute Id="ID29" name="Name"
+ value="43200000_Overvannsledning"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID30" name="UId"
+ value=""
+ refAttributeType="ID45"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID31" name="ShortName"
+ value="OV"
+ refAttributeType="ID46"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID32" name="RefPoint"
+ value="0"
+ refAttributeType="ID47"
+>
+</QdiIntegerAttribute>
+<QdiBoolAttribute Id="ID33" name="Pump"
+ value="false"
+ refAttributeType="ID48"
+>
+</QdiBoolAttribute>
+<QdiBoolAttribute Id="ID34" name="RefPipe"
+ value="true"
+ refAttributeType="ID49"
+>
+</QdiBoolAttribute>
+<QdiFeature Id="ID36" persistentID="9"
+ refAttributes="ID50 ID51 ID52 ID53 ID54 ID55 ID56 ID57 ID58 ID59 ID60 ID61 ID62 ID63 "
+ refSpatialObjectType="ID64"
+ refMetaObjects=""
+ refAggregations="ID65 "
+ refSpatials="ID66 ID67 "
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID50" name="Material"
+ value="Betong ig"
+ refAttributeType="ID37"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID51" name="ShortMaterial"
+ value="BTG"
+ refAttributeType="ID38"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID52" name="Type"
+ value=" "
+ refAttributeType="ID39"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID53" name="StatusCode"
+ value="0"
+ refAttributeType="ID40"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID54" name="UseTypeCode"
+ value="0"
+ refAttributeType="ID41"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID55" name="Domain"
+ value=""
+ refAttributeType="ID42"
+>
+</QdiStringAttribute>
+<QdiListAttribute Id="ID56" name="QuadriObjectIds"
+ refAttributeType="ID43"
+ refAttributes=""
+>
+</QdiListAttribute>
+<QdiRealAttribute Id="ID57" name="Dimension"
+ value="1200.000000"
+ refAttributeType="ID68"
+>
+</QdiRealAttribute>
+<QdiBoolAttribute Id="ID58" name="DimensionType"
+ value="true"
+ refAttributeType="ID69"
+>
+</QdiBoolAttribute>
+<QdiRealAttribute Id="ID59" name="Height"
+ value="1200.000000"
+ refAttributeType="ID70"
+>
+</QdiRealAttribute>
+<QdiIntegerAttribute Id="ID60" name="Shape"
+ value="1"
+ refAttributeType="ID71"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID61" name="PressureRating"
+ value="Falsrør"
+ refAttributeType="ID72"
+>
+</QdiStringAttribute>
+<QdiRealAttribute Id="ID62" name="MaterialThickness"
+ value="136.000000"
+ refAttributeType="ID73"
+>
+</QdiRealAttribute>
+<QdiListAttribute Id="ID63" name="VertexModes"
+ refAttributeType="ID74"
+ refAttributes="ID75 ID76 "
+>
+<QdiIntegerAttribute Id="ID75" name="VertexMode"
+ value="0"
+ refAttributeType="ID77"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID76" name="VertexMode"
+ value="0"
+ refAttributeType="ID77"
+>
+</QdiIntegerAttribute>
+</QdiListAttribute>
+<QdiFeature Id="ID65" persistentID="-3535"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID79 ID80 ID81 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID79" persistentID="-3536"
+ refAttributes=""
+ refSpatialObjectType="ID82"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID4 "
+>
+</QdiFeature>
+<QdiFeature Id="ID80" persistentID="-3537"
+ refAttributes=""
+ refSpatialObjectType="ID83"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID5 "
+>
+</QdiFeature>
+<QdiFeature Id="ID81" persistentID="-3538"
+ refAttributes=""
+ refSpatialObjectType="ID84"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID6 "
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID5" persistentID="10"
+ refAttributes="ID85 ID86 ID87 ID88 ID89 ID90 ID91 ID92 ID93 ID94 ID95 ID96 ID97 ID98 "
+ refSpatialObjectType="ID99"
+ refMetaObjects=""
+ refAggregations="ID100 "
+ refSpatials="ID101 "
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID85" name="Material"
+ value=""
+ refAttributeType="ID37"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID86" name="ShortMaterial"
+ value=""
+ refAttributeType="ID38"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID87" name="Type"
+ value="40000000_Modellpunkt"
+ refAttributeType="ID39"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID88" name="StatusCode"
+ value="0"
+ refAttributeType="ID40"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID89" name="UseTypeCode"
+ value="0"
+ refAttributeType="ID41"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID90" name="Domain"
+ value=""
+ refAttributeType="ID42"
+>
+</QdiStringAttribute>
+<QdiListAttribute Id="ID91" name="QuadriObjectIds"
+ refAttributeType="ID43"
+ refAttributes=""
+>
+</QdiListAttribute>
+<QdiStringAttribute Id="ID92" name="Name"
+ value="40000000_Modellpunkt"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID93" name="UId"
+ value=""
+ refAttributeType="ID45"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID94" name="RelationMode"
+ value="1"
+ refAttributeType="ID102"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID95" name="PointIndex"
+ value="0"
+ refAttributeType="ID103"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID96" name="DevicePointType"
+ value="40000000_Modellpunkt"
+ refAttributeType="ID104"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID97" name="DimensionStr"
+ value=""
+ refAttributeType="ID105"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID98" name="LockMode"
+ value="0"
+ refAttributeType="ID106"
+>
+</QdiIntegerAttribute>
+<QdiFeature Id="ID100" persistentID="-3539"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID107 ID108 ID109 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID107" persistentID="-3540"
+ refAttributes=""
+ refSpatialObjectType="ID110"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID36 "
+>
+</QdiFeature>
+<QdiFeature Id="ID108" persistentID="-3541"
+ refAttributes=""
+ refSpatialObjectType="ID111"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+<QdiFeature Id="ID109" persistentID="-3542"
+ refAttributes=""
+ refSpatialObjectType="ID112"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID6" persistentID="29"
+ refAttributes="ID113 ID114 ID115 ID116 ID117 ID118 ID119 ID120 ID121 ID122 ID123 ID124 ID125 ID126 "
+ refSpatialObjectType="ID99"
+ refMetaObjects=""
+ refAggregations="ID127 "
+ refSpatials="ID128 "
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID113" name="Material"
+ value=""
+ refAttributeType="ID37"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID114" name="ShortMaterial"
+ value=""
+ refAttributeType="ID38"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID115" name="Type"
+ value="40000000_Modellpunkt"
+ refAttributeType="ID39"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID116" name="StatusCode"
+ value="0"
+ refAttributeType="ID40"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID117" name="UseTypeCode"
+ value="0"
+ refAttributeType="ID41"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID118" name="Domain"
+ value=""
+ refAttributeType="ID42"
+>
+</QdiStringAttribute>
+<QdiListAttribute Id="ID119" name="QuadriObjectIds"
+ refAttributeType="ID43"
+ refAttributes=""
+>
+</QdiListAttribute>
+<QdiStringAttribute Id="ID120" name="Name"
+ value="40000000_Modellpunkt"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID121" name="UId"
+ value=""
+ refAttributeType="ID45"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID122" name="RelationMode"
+ value="1"
+ refAttributeType="ID102"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID123" name="PointIndex"
+ value="0"
+ refAttributeType="ID103"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID124" name="DevicePointType"
+ value="40000000_Modellpunkt"
+ refAttributeType="ID104"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID125" name="DimensionStr"
+ value=""
+ refAttributeType="ID105"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID126" name="LockMode"
+ value="0"
+ refAttributeType="ID106"
+>
+</QdiIntegerAttribute>
+<QdiFeature Id="ID127" persistentID="-3543"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID129 ID130 ID131 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID129" persistentID="-3544"
+ refAttributes=""
+ refSpatialObjectType="ID110"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+<QdiFeature Id="ID130" persistentID="-3545"
+ refAttributes=""
+ refSpatialObjectType="ID111"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID36 "
+>
+</QdiFeature>
+<QdiFeature Id="ID131" persistentID="-3546"
+ refAttributes=""
+ refSpatialObjectType="ID112"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID7" persistentID="16"
+ refAttributes="ID132 ID133 ID134 ID135 ID136 ID137 ID138 ID139 ID140 ID141 ID142 ID143 ID144 ID145 ID146 "
+ refSpatialObjectType="ID147"
+ refMetaObjects=""
+ refAggregations="ID148 ID149 "
+ refSpatials="ID150 ID151 "
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID132" name="Name"
+ value="Seksjon 1 - 2"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiRealAttribute Id="ID133" name="HorCurveInputRadius"
+ value="0.000000"
+ refAttributeType="ID152"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID134" name="VertCurveInputRadius"
+ value="0.000000"
+ refAttributeType="ID153"
+>
+</QdiRealAttribute>
+<QdiBoolAttribute Id="ID135" name="HorCurveInputRadiusBigArc"
+ value="false"
+ refAttributeType="ID154"
+>
+</QdiBoolAttribute>
+<QdiBoolAttribute Id="ID136" name="VertCurveInputRadiusBigArc"
+ value="false"
+ refAttributeType="ID155"
+>
+</QdiBoolAttribute>
+<QdiIntegerAttribute Id="ID137" name="HorCurveCircArcConversionMethod"
+ value="0"
+ refAttributeType="ID156"
+>
+</QdiIntegerAttribute>
+<QdiRealAttribute Id="ID138" name="HorCurveCircArcConversionValue"
+ value="0.000000"
+ refAttributeType="ID157"
+>
+</QdiRealAttribute>
+<QdiIntegerAttribute Id="ID139" name="VertCurveCircArcConversionMethod"
+ value="0"
+ refAttributeType="ID158"
+>
+</QdiIntegerAttribute>
+<QdiRealAttribute Id="ID140" name="VertCurveCircArcConversionValue"
+ value="0.000000"
+ refAttributeType="ID159"
+>
+</QdiRealAttribute>
+<QdiBoolAttribute Id="ID141" name="IsElevationRelativeToTerrain"
+ value="false"
+ refAttributeType="ID160"
+>
+</QdiBoolAttribute>
+<QdiRealAttribute Id="ID142" name="VertCurveFrostproofDepth"
+ value="1.100000"
+ refAttributeType="ID161"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID143" name="VertCurveTerrainSmoothing"
+ value="0.100000"
+ refAttributeType="ID162"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID144" name="NodeEdgeDistance"
+ value="0.000000"
+ refAttributeType="ID163"
+>
+</QdiRealAttribute>
+<QdiBoolAttribute Id="ID145" name="IsWithoutTrench"
+ value="false"
+ refAttributeType="ID164"
+>
+</QdiBoolAttribute>
+<QdiIntegerAttribute Id="ID146" name="CrossSectionTemplCountValue"
+ value="1"
+ refAttributeType="ID165"
+>
+</QdiIntegerAttribute>
+<QdiFeature Id="ID148" persistentID="-3548"
+ refAttributes="ID166 ID167 ID168 ID169 ID170 ID171 ID172 ID173 "
+ refSpatialObjectType="ID174"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID166" name="Name"
+ value="OV1200 BTG"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiRealAttribute Id="ID167" name="Distance"
+ value="0.000000"
+ refAttributeType="ID175"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID168" name="SoilSlope"
+ value="2.000000"
+ refAttributeType="ID176"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID169" name="RockSlope"
+ value="5.000000"
+ refAttributeType="ID177"
+>
+</QdiRealAttribute>
+<QdiIntegerAttribute Id="ID170" name="MinBottomWidth"
+ value="600"
+ refAttributeType="ID178"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID171" name="DistToLeftWall"
+ value="750"
+ refAttributeType="ID179"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID172" name="DistToRightWall"
+ value="750"
+ refAttributeType="ID180"
+>
+</QdiIntegerAttribute>
+<QdiIntegerAttribute Id="ID173" name="ProtectionLayerHt"
+ value="300"
+ refAttributeType="ID181"
+>
+</QdiIntegerAttribute>
+</QdiFeature>
+<QdiFeature Id="ID149" persistentID="-3567"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID182 ID183 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID182" persistentID="-3568"
+ refAttributes=""
+ refSpatialObjectType="ID184"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID185 "
+>
+</QdiFeature>
+<QdiFeature Id="ID183" persistentID="-3569"
+ refAttributes=""
+ refSpatialObjectType="ID186"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID8" persistentID="23"
+ refAttributes="ID187 ID188 "
+ refSpatialObjectType="ID189"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials="ID190 "
+ refAssociations="ID11 "
+>
+<QdiStringAttribute Id="ID187" name="Name"
+ value="1"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiRealAttribute Id="ID188" name="TerrainElevation"
+ value="0.000000"
+ refAttributeType="ID191"
+>
+</QdiRealAttribute>
+</QdiFeature>
+<QdiFeature Id="ID9" persistentID="25"
+ refAttributes="ID192 ID193 "
+ refSpatialObjectType="ID189"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials="ID194 "
+ refAssociations="ID12 "
+>
+<QdiStringAttribute Id="ID192" name="Name"
+ value="2"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiRealAttribute Id="ID193" name="TerrainElevation"
+ value="0.000000"
+ refAttributeType="ID191"
+>
+</QdiRealAttribute>
+</QdiFeature>
+<QdiFeature Id="ID10" persistentID="12"
+ refAttributes="ID195 ID196 ID197 ID198 ID199 ID200 ID201 "
+ refSpatialObjectType="ID202"
+ refMetaObjects=""
+ refAggregations="ID185 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiStringAttribute Id="ID195" name="Name"
+ value="Trase1"
+ refAttributeType="ID44"
+>
+</QdiStringAttribute>
+<QdiIntegerAttribute Id="ID196" name="TrenchPathType"
+ value="1"
+ refAttributeType="ID203"
+>
+</QdiIntegerAttribute>
+<QdiStringAttribute Id="ID197" name="TrenchPathTaskGUID"
+ value=""
+ refAttributeType="ID204"
+>
+</QdiStringAttribute>
+<QdiBoolAttribute Id="ID198" name="IsElevationRelativeToTerrain"
+ value="false"
+ refAttributeType="ID160"
+>
+</QdiBoolAttribute>
+<QdiRealAttribute Id="ID199" name="VertCurveFrostproofDepth"
+ value="1.100000"
+ refAttributeType="ID161"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID200" name="VertCurveTerrainSmoothing"
+ value="0.100000"
+ refAttributeType="ID162"
+>
+</QdiRealAttribute>
+<QdiRealAttribute Id="ID201" name="TrenchPathModifiedTimeStamp"
+ value="1678720234.000000"
+ refAttributeType="ID205"
+>
+</QdiRealAttribute>
+<QdiFeature Id="ID185" persistentID="13"
+ refAttributes=""
+ refSpatialObjectType="ID206"
+ refMetaObjects=""
+ refAggregations="ID207 "
+ refSpatials=""
+ refAssociations="ID10 ID7 "
+>
+<QdiFeature Id="ID207" persistentID="-3570"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID208 ID209 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID208" persistentID="-3571"
+ refAttributes=""
+ refSpatialObjectType="ID210"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID11 "
+>
+</QdiFeature>
+<QdiFeature Id="ID209" persistentID="-3572"
+ refAttributes=""
+ refSpatialObjectType="ID211"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID12 "
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID11" persistentID="14"
+ refAttributes="ID212 "
+ refSpatialObjectType="ID213"
+ refMetaObjects=""
+ refAggregations="ID214 "
+ refSpatials=""
+ refAssociations="ID8 "
+>
+<QdiIntegerAttribute Id="ID212" name="TrenchNodeType"
+ value="0"
+ refAttributeType="ID215"
+>
+</QdiIntegerAttribute>
+<QdiFeature Id="ID214" persistentID="-3573"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID216 ID217 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID216" persistentID="-3574"
+ refAttributes=""
+ refSpatialObjectType="ID218"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID185 "
+>
+</QdiFeature>
+<QdiFeature Id="ID217" persistentID="-3575"
+ refAttributes=""
+ refSpatialObjectType="ID219"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID12" persistentID="15"
+ refAttributes="ID220 "
+ refSpatialObjectType="ID213"
+ refMetaObjects=""
+ refAggregations="ID221 "
+ refSpatials=""
+ refAssociations="ID9 "
+>
+<QdiIntegerAttribute Id="ID220" name="TrenchNodeType"
+ value="0"
+ refAttributeType="ID215"
+>
+</QdiIntegerAttribute>
+<QdiFeature Id="ID221" persistentID="-3576"
+ refAttributes=""
+ refSpatialObjectType="ID78"
+ refMetaObjects=""
+ refAggregations="ID222 ID223 "
+ refSpatials=""
+ refAssociations=""
+>
+<QdiFeature Id="ID222" persistentID="-3577"
+ refAttributes=""
+ refSpatialObjectType="ID218"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations=""
+>
+</QdiFeature>
+<QdiFeature Id="ID223" persistentID="-3578"
+ refAttributes=""
+ refSpatialObjectType="ID219"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID185 "
+>
+</QdiFeature>
+</QdiFeature>
+</QdiFeature>
+<QdiFeature Id="ID13" persistentID="32"
+ refAttributes="ID224 ID225 "
+ refSpatialObjectType="ID226"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID10 "
+>
+<QdiStringAttribute Id="ID224" name="VipsProjName"
+ value=""
+ refAttributeType="ID227"
+>
+</QdiStringAttribute>
+<QdiStringAttribute Id="ID225" name="VpipReflineQuadriObjname"
+ value=""
+ refAttributeType="ID228"
+>
+</QdiStringAttribute>
+</QdiFeature>
+<QdiFeature Id="ID14" persistentID="28"
+ refAttributes=""
+ refSpatialObjectType="ID229"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID11 ID5 "
+>
+</QdiFeature>
+<QdiFeature Id="ID15" persistentID="31"
+ refAttributes=""
+ refSpatialObjectType="ID229"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID12 ID6 "
+>
+</QdiFeature>
+<QdiFeature Id="ID16" persistentID="27"
+ refAttributes=""
+ refSpatialObjectType="ID230"
+ refMetaObjects=""
+ refAggregations=""
+ refSpatials=""
+ refAssociations="ID7 ID36 "
+>
+</QdiFeature>
+<QdiComposedTypeRegistry Id="ID2" persistentID="-3405"
+ name=""
+ major="0"
+ minor="0"
+ refSpatialPropertyTypeRegistry="ID231"
+ refFeatureTypeRegistry="ID232"
+ refAttributeTypeRegistry="ID233"
+>
+<QdiSpatialPropertyTypeRegistry Id="ID231" persistentID="-3445"
+ name=""
+ major="0"
+ minor="0"
+ refSpatialPropertyTypes=""
+>
+</QdiSpatialPropertyTypeRegistry>
+<QdiFeatureTypeRegistry Id="ID232" persistentID="-3406"
+ name=""
+ major="0"
+ minor="0"
+ refFeatureTypeGroup="ID-1"
+ refFeatureTypes="ID78 ID35 ID64 ID99 ID234 ID235 ID236 ID237 ID238 ID239 ID240 ID83 ID84 ID82 ID112 ID110 ID111 ID202 ID206 ID213 ID241 ID147 ID189 ID174 ID242 ID210 ID211 ID243 ID244 ID218 ID219 ID184 ID186 ID226 ID229 ID230 ID245 ID19 "
+>
+<QdiFeatureType Id="ID78" persistentID="1"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID35" persistentID="1001"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID64" persistentID="1002"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID99" persistentID="1003"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID234" persistentID="1004"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID235" persistentID="1005"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID236" persistentID="1006"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID237" persistentID="1007"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID238" persistentID="1008"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID239" persistentID="1009"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID240" persistentID="2"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID83" persistentID="14"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID84" persistentID="15"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID82" persistentID="3"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID112" persistentID="4"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID110" persistentID="5"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID111" persistentID="6"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID202" persistentID="1021"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID206" persistentID="1022"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID213" persistentID="1023"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID241" persistentID="1024"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID147" persistentID="1025"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID189" persistentID="1026"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID174" persistentID="1027"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID242" persistentID="7"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID210" persistentID="16"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID211" persistentID="17"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID243" persistentID="8"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID244" persistentID="9"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID218" persistentID="10"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID219" persistentID="11"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID184" persistentID="12"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID186" persistentID="13"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID226" persistentID="1061"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID229" persistentID="1041"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID230" persistentID="1042"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID245" persistentID="100"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+<QdiFeatureType Id="ID19" persistentID="99"
+ name=""
+ descr=""
+ meta="false"
+ refAttributeTypes=""
+ refSpatialTypes=""
+>
+</QdiFeatureType>
+</QdiFeatureTypeRegistry>
+<QdiAttributeTypeRegistry Id="ID233" persistentID="-3446"
+ name=""
+ major="0"
+ minor="0"
+ refDefaultAttributeTypes=""
+ refAttributeTypes="ID37 ID42 ID38 ID39 ID40 ID41 ID44 ID46 ID47 ID71 ID48 ID49 ID102 ID103 ID68 ID69 ID106 ID70 ID72 ID73 ID246 ID247 ID248 ID249 ID104 ID105 ID191 ID250 ID251 ID252 ID253 ID254 ID255 ID256 ID257 ID258 ID74 ID77 ID43 ID259 ID260 ID261 ID262 ID45 ID176 ID177 ID178 ID179 ID180 ID181 ID203 ID152 ID154 ID153 ID155 ID156 ID158 ID157 ID159 ID165 ID175 ID204 ID160 ID161 ID162 ID205 ID163 ID164 ID215 ID227 ID228 ID20 ID21 "
+>
+<QdiStringAttributeType Id="ID37" persistentID="1101"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID42" persistentID="1216"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID38" persistentID="1119"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID39" persistentID="1102"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiIntegerAttributeType Id="ID40" persistentID="1113"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID41" persistentID="1114"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiStringAttributeType Id="ID44" persistentID="1103"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID46" persistentID="1104"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiIntegerAttributeType Id="ID47" persistentID="1105"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID71" persistentID="1121"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiBoolAttributeType Id="ID48" persistentID="1115"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiBoolAttributeType Id="ID49" persistentID="1117"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiIntegerAttributeType Id="ID102" persistentID="1106"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID103" persistentID="1107"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID68" persistentID="1108"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiBoolAttributeType Id="ID69" persistentID="1135"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiIntegerAttributeType Id="ID106" persistentID="1142"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID70" persistentID="1122"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiStringAttributeType Id="ID72" persistentID="1109"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiRealAttributeType Id="ID73" persistentID="1110"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID246" persistentID="1136"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID247" persistentID="1138"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID248" persistentID="1111"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID249" persistentID="1116"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiStringAttributeType Id="ID104" persistentID="1112"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID105" persistentID="1118"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiRealAttributeType Id="ID191" persistentID="1120"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID250" persistentID="1123"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID251" persistentID="1124"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID252" persistentID="1125"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID253" persistentID="1127"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiIntegerAttributeType Id="ID254" persistentID="1128"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID255" persistentID="1129"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID256" persistentID="1130"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiIntegerAttributeType Id="ID257" persistentID="1131"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID258" persistentID="1145"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiListAttributeType Id="ID74" persistentID="1139"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refAttributeType="ID-1"
+>
+</QdiListAttributeType>
+<QdiIntegerAttributeType Id="ID77" persistentID="1140"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiListAttributeType Id="ID43" persistentID="1143"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refAttributeType="ID-1"
+>
+</QdiListAttributeType>
+<QdiStringAttributeType Id="ID259" persistentID="1144"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiIntegerAttributeType Id="ID260" persistentID="1132"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID261" persistentID="1133"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiStringAttributeType Id="ID262" persistentID="1134"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID45" persistentID="1141"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiRealAttributeType Id="ID176" persistentID="1201"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID177" persistentID="1202"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiIntegerAttributeType Id="ID178" persistentID="1203"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID179" persistentID="1204"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID180" persistentID="1205"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID181" persistentID="1206"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID203" persistentID="1207"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID152" persistentID="1208"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiBoolAttributeType Id="ID154" persistentID="1214"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiRealAttributeType Id="ID153" persistentID="1209"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiBoolAttributeType Id="ID155" persistentID="1215"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiIntegerAttributeType Id="ID156" persistentID="1210"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID158" persistentID="1211"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID157" persistentID="1212"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID159" persistentID="1213"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiIntegerAttributeType Id="ID165" persistentID="1217"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiRealAttributeType Id="ID175" persistentID="1218"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiStringAttributeType Id="ID204" persistentID="1219"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiBoolAttributeType Id="ID160" persistentID="1220"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiRealAttributeType Id="ID161" persistentID="1221"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID162" persistentID="1222"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID205" persistentID="1223"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiRealAttributeType Id="ID163" persistentID="1224"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiRealAttributeType>
+<QdiBoolAttributeType Id="ID164" persistentID="1225"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiBoolAttributeType>
+<QdiIntegerAttributeType Id="ID215" persistentID="1226"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiStringAttributeType Id="ID227" persistentID="1601"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiStringAttributeType Id="ID228" persistentID="1602"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiStringAttributeType>
+<QdiIntegerAttributeType Id="ID20" persistentID="97"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+<QdiIntegerAttributeType Id="ID21" persistentID="98"
+ name=""
+ descr=""
+ mandatory="false"
+ readOnly="false"
+ list="false"
+ refConstrainStruct="ID-1"
+>
+</QdiIntegerAttributeType>
+</QdiAttributeTypeRegistry>
+</QdiComposedTypeRegistry>
+<QdiPath Id="ID66" persistentID="-3526"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refCurves="ID263 "
+>
+<QdiCurveDirection Id="ID263" persistentID="-3527"
+ direction="1"
+ refCurve="ID264"
+>
+</QdiCurveDirection>
+</QdiPath>
+<QdiPath Id="ID67" persistentID="-3529"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refCurves="ID265 "
+>
+<QdiCurveDirection Id="ID265" persistentID="-3530"
+ direction="1"
+ refCurve="ID266"
+>
+</QdiCurveDirection>
+</QdiPath>
+<QdiSinglePoint Id="ID101" persistentID="-3532"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refPosition="ID267"
+>
+<QdiPosition3D Id="ID267" x="0.000000"
+ y="0.000000"
+ z="0.336000"
+>
+</QdiPosition3D>
+</QdiSinglePoint>
+<QdiSinglePoint Id="ID128" persistentID="-3534"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refPosition="ID268"
+>
+<QdiPosition3D Id="ID268" x="0.000000"
+ y="0.000000"
+ z="0.336000"
+>
+</QdiPosition3D>
+</QdiSinglePoint>
+<QdiPath Id="ID150" persistentID="-3549"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refCurves="ID269 "
+>
+<QdiCurveDirection Id="ID269" persistentID="-3551"
+ direction="0"
+ refCurve="ID270"
+>
+</QdiCurveDirection>
+</QdiPath>
+<QdiPath Id="ID151" persistentID="-3550"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refCurves="ID271 "
+>
+<QdiCurveDirection Id="ID271" persistentID="-3554"
+ direction="0"
+ refCurve="ID272"
+>
+</QdiCurveDirection>
+</QdiPath>
+<QdiSinglePoint Id="ID190" persistentID="-3556"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refPosition="ID273"
+>
+<QdiPosition3D Id="ID273" x="76682.290628"
+ y="1262285.338159"
+ z="37.075589"
+>
+</QdiPosition3D>
+</QdiSinglePoint>
+<QdiSinglePoint Id="ID194" persistentID="-3558"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refPosition="ID274"
+>
+<QdiPosition3D Id="ID274" x="76691.647603"
+ y="1262306.903139"
+ z="36.826882"
+>
+</QdiPosition3D>
+</QdiSinglePoint>
+<QdiCurveSegment Id="ID264" persistentID="-3525"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refShape="ID275"
+>
+<QdiPolyline Id="ID275" refPositions="ID276 ID277 "
+>
+<QdiPosition2D Id="ID276" x="76682.290628"
+ y="1262285.338159"
+>
+</QdiPosition2D>
+<QdiPosition2D Id="ID277" x="76691.647603"
+ y="1262306.903139"
+>
+</QdiPosition2D>
+</QdiPolyline>
+</QdiCurveSegment>
+<QdiCurveSegment Id="ID266" persistentID="-3528"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refShape="ID278"
+>
+<QdiPolyline Id="ID278" refPositions="ID279 ID280 "
+>
+<QdiPosition2D Id="ID279" x="0.000000"
+ y="37.411589"
+>
+</QdiPosition2D>
+<QdiPosition2D Id="ID280" x="23.507474"
+ y="37.162882"
+>
+</QdiPosition2D>
+</QdiPolyline>
+</QdiCurveSegment>
+<QdiCurveSegment Id="ID270" persistentID="-3552"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refShape="ID281"
+>
+<QdiPolyline Id="ID281" refPositions="ID282 ID283 "
+>
+<QdiPosition3D Id="ID282" x="76682.290628"
+ y="1262285.338159"
+ z="0.000000"
+>
+</QdiPosition3D>
+<QdiPosition3D Id="ID283" x="76691.647603"
+ y="1262306.903139"
+ z="0.000000"
+>
+</QdiPosition3D>
+</QdiPolyline>
+</QdiCurveSegment>
+<QdiCurveSegment Id="ID272" persistentID="-3555"
+ refAttributes=""
+ refSpatialObjectType="ID-1"
+ refMetaObjects=""
+ refSpatialReferenceSystem="ID-1"
+ refShape="ID284"
+>
+<QdiPolyline Id="ID284" refPositions="ID285 ID286 "
+>
+<QdiPosition2D Id="ID285" x="0.000000"
+ y="37.075589"
+>
+</QdiPosition2D>
+<QdiPosition2D Id="ID286" x="23.507474"
+ y="36.826882"
+>
+</QdiPosition2D>
+</QdiPolyline>
+</QdiCurveSegment>
+</QdiGeodataSet>
